@@ -28,6 +28,10 @@
   ![Snake animation](https://github.com/joaojbsb/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</br>
+<div>
+   <img align="center" alt="tela_login" height="400" width="200" src="https://user-images.githubusercontent.com/47161770/184558741-2194d72a-165c-436b-bb1a-fd88f0b922a7.png">
+</div>
 
 
  
