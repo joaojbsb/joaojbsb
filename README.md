@@ -1,7 +1,11 @@
 ### João Oliveira Lima Júnior
 
 
-🔭 Analista de Sistemas | Prefeitura Municipal de Águas Lindas de Goiás ...
+🔭 Analista de Sistemas | Prefeitura Municipal de Águas Lindas de Goiás ...</br></br>
+Olá, seja bem vindo ao meu perfil, aqui tem alguns projetos profissionais e pessoais que fiz.
+Profissionalmente passo o dia criando querys SQL, customizando relatórios com JasperStudio, e fazendo a manutenção de sites.</br></br>
+Estou me dedicando aos estudos de React e React-Native (este principalmente) e posteriormente fazer uma migração de carreira.</br>
+
 
 <div align="center">
   <a href="https://github.com/joaojbsb">
